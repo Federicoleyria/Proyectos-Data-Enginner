@@ -1,0 +1,38 @@
+Proyecto ETL (Extracción, Transformación y Carga) de Datos Financieros
+Este proyecto consiste en un proceso ETL para extraer datos financieros de acciones de Yahoo Finance, transformarlos y cargarlos en una base de datos MySQL. Utiliza bibliotecas populares como Pandas, psycopg2, yfinance y mysql.connector.
+
+Requisitos
+Python 3.x
+Pandas
+psycopg2
+yfinance
+mysql.connector
+MySQL Server
+Instalación
+Clona este repositorio en tu máquina local:
+bash
+Copy code
+git clone https://github.com/tu_usuario/tu_proyecto.git
+Instala las dependencias del proyecto:
+bash
+Copy code
+pip install -r requirements.txt
+Configuración
+Asegúrate de tener un servidor MySQL en ejecución y crea una base de datos para el proyecto.
+Modifica las credenciales de conexión en el archivo main.py para que coincidan con tu entorno:
+python
+Copy code
+conn = mysql.connector.connect(user='tu_usuario', password='tu_contraseña',
+                               host='localhost',
+                               database='tu_base_de_datos',
+                               port='3306')
+Uso
+Ejecuta el script main.py para extraer, transformar y cargar los datos en la base de datos:
+bash
+Copy code
+python main.py
+Estructura del Proyecto
+main.py: Contiene el código principal para el proceso ETL.
+requirements.txt: Lista las dependencias del proyecto.
+Contribución
+Si deseas contribuir a este proyecto, ¡eres bienvenido! Puedes abrir un problema o enviar una solicitud de extracción con tus mejoras.

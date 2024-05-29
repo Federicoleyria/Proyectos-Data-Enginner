@@ -1,0 +1,663 @@
+{
+    "success": true,
+    "data": [
+        {
+            "inbox_last_message": {
+                "contact_id": "664560ca16dadba5db024de7",
+                "bot_id": "65746a856e9d24c086045e48",
+                "campaign_id": null,
+                "sent_by": null,
+                "direction": 1,
+                "type": [],
+                "status": 1,
+                "channel": null,
+                "campaign_message_number": null,
+                "block_id": null,
+                "send_block_id": null,
+                "edited_at": null,
+                "edited_by": null,
+                "created_at": "2024-05-16T01:26:34+00:00",
+                "id": "664560ca79bcb8888d056950",
+                "data": {
+                    "text": "/start",
+                    "parse_mode": null,
+                    "disable_web_page_preview": null,
+                    "disable_notification": null,
+                    "reply_to_message": null,
+                    "reply_markup": null,
+                    "protect_content": null,
+                    "run_chain_id": null,
+                    "payload_contact_variables": null,
+                    "message_id": 1919
+                }
+            },
+            "inbox_unread": 1,
+            "contact": {
+                "bot_id": "65746a856e9d24c086045e48",
+                "status": 1,
+                "operator": null,
+                "type": 1,
+                "last_activity_at": "2024-05-16T01:26:34+00:00",
+                "referral_source": null,
+                "quick_replies": [],
+                "variables": {},
+                "tags": [],
+                "is_chat_opened": false,
+                "subscribe_url": null,
+                "is_banned": false,
+                "created_at": "2024-05-16T01:26:34+00:00",
+                "id": "664560ca16dadba5db024de7",
+                "channel_data": {
+                    "username": null,
+                    "first_name": "Marco",
+                    "last_name": null,
+                    "language_code": "es",
+                    "phone_number": null,
+                    "vcard": null,
+                    "photo": null,
+                    "name": "Marco"
+                },
+                "telegram_id": 6069402026
+            }
+        },
+        {
+            "inbox_last_message": {
+                "contact_id": "65748d628d16bbfb2f0e841d",
+                "bot_id": "65746a856e9d24c086045e48",
+                "campaign_id": null,
+                "sent_by": null,
+                "direction": 1,
+                "type": [],
+                "status": 1,
+                "channel": null,
+                "campaign_message_number": null,
+                "edited_at": null,
+                "edited_by": null,
+                "created_at": "2024-04-07T17:09:12+00:00",
+                "id": "6612d33810706e364b0f90f4",
+                "data": {
+                    "voice": {
+                        "mime_type": "audio/ogg",
+                        "file_id": "AwACAgEAAxkBAAIHfGYS0zceXra70b8uGpClEa4fTmpLAAIMBQACxN6RROlZ9ZqKkcedMAQ",
+                        "file_size": 54494,
+                        "file_unique_id": "AgADDAUAAsTekUQ",
+                        "duration": 2
+                    },
+                    "audio_transcription": {
+                        "text": "Un compa\u00f1ero en el colegio me pelea.",
+                        "error_code": null,
+                        "error_message": null
+                    },
+                    "caption": null,
+                    "reply_to_message": null,
+                    "token": "6834597125:AAH5FTG_0KNpHLLMPURxyujzS6PfidG5_YI",
+                    "date": 1712509751,
+                    "message_id": 1916
+                }
+            },
+            "inbox_unread": 0,
+            "contact": {
+                "bot_id": "65746a856e9d24c086045e48",
+                "status": 1,
+                "operator": null,
+                "type": 1,
+                "last_activity_at": "2024-04-07T17:09:12+00:00",
+                "referral_source": null,
+                "quick_replies": [],
+                "variables": {
+                    "NombreApellido": "NombrePersona1",
+                    "Edad": 13,
+                    "Email": "correofalso1@gmail.com",
+                    "Telefono": 23344566,
+                    "Ubicacion1": "https://maps.google.com/?q=-34.512966,-58.494318",
+                    "Relato": "Se r\u00eden de m\u00ed porque soy negrita.",
+                    "Sexo": "Mujer \ud83d\udeba",
+                    "TipoViolencia": "Verbal",
+                    "Lugar": "Dentro de la Escuela"
+                },
+                "tags": [],
+                "is_chat_opened": true,
+                "subscribe_url": null,
+                "is_banned": false,
+                "created_at": "2023-12-09T15:53:06+00:00",
+                "id": "65748d628d16bbfb2f0e841d",
+                "channel_data": {
+                    "username": null,
+                    "first_name": "Rosa",
+                    "last_name": "Pereyra",
+                    "language_code": "es",
+                    "phone_number": null,
+                    "vcard": null,
+                    "photo": null,
+                    "name": "Rosa Pereyra"
+                },
+                "telegram_id": 6563683964
+            }
+        },
+        {
+            "inbox_last_message": {
+                "contact_id": "65cbda14147383e32b06a7a8",
+                "bot_id": "65746a856e9d24c086045e48",
+                "campaign_id": null,
+                "sent_by": null,
+                "direction": 1,
+                "type": [],
+                "status": 1,
+                "channel": null,
+                "campaign_message_number": null,
+                "edited_at": null,
+                "edited_by": null,
+                "created_at": "2024-03-15T13:54:27+00:00",
+                "id": "65f45313c87d9cf05c097c6e",
+                "data": {
+                    "text": "mariansavid@gmail.com",
+                    "parse_mode": null,
+                    "disable_web_page_preview": null,
+                    "disable_notification": null,
+                    "reply_to_message": null,
+                    "reply_markup": null,
+                    "protect_content": null,
+                    "run_chain_id": null,
+                    "payload_contact_variables": null,
+                    "message_id": 1839
+                }
+            },
+            "inbox_unread": 0,
+            "contact": {
+                "bot_id": "65746a856e9d24c086045e48",
+                "status": 1,
+                "operator": null,
+                "type": 1,
+                "last_activity_at": "2024-03-15T13:54:27+00:00",
+                "referral_source": null,
+                "quick_replies": [],
+                "variables": {
+                    "NombreApellido": "NombrePersona2",
+                    "Edad": 14,
+                    "Sexo": "Fem",
+                    "Email": "correofalso2@gmail.com",
+                    "Telefono": 3515573222
+                },
+                "tags": [],
+                "is_chat_opened": false,
+                "subscribe_url": null,
+                "is_banned": false,
+                "created_at": "2024-02-13T21:07:32+00:00",
+                "id": "65cbda14147383e32b06a7a8",
+                "channel_data": {
+                    "username": null,
+                    "first_name": "Mir",
+                    "last_name": null,
+                    "language_code": "es",
+                    "phone_number": null,
+                    "vcard": null,
+                    "photo": null,
+                    "name": "Mir"
+                },
+                "telegram_id": 1806570969
+            }
+        },
+        {
+            "inbox_last_message": {
+                "contact_id": "65e9e8a91cda8a594806e561",
+                "bot_id": "65746a856e9d24c086045e48",
+                "campaign_id": null,
+                "sent_by": null,
+                "direction": 1,
+                "type": [],
+                "status": 1,
+                "channel": null,
+                "campaign_message_number": null,
+                "edited_at": null,
+                "edited_by": null,
+                "created_at": "2024-03-07T16:18:01+00:00",
+                "id": "65e9e8b9ede324c35e028b9a",
+                "data": {
+                    "text": "Hombre \ud83d\udeb9",
+                    "parse_mode": null,
+                    "disable_web_page_preview": null,
+                    "disable_notification": null,
+                    "reply_to_message": null,
+                    "reply_markup": null,
+                    "protect_content": null,
+                    "run_chain_id": null,
+                    "payload_contact_variables": null,
+                    "message_id": 1807
+                }
+            },
+            "inbox_unread": 0,
+            "contact": {
+                "bot_id": "65746a856e9d24c086045e48",
+                "status": 1,
+                "operator": null,
+                "type": 1,
+                "last_activity_at": "2024-03-07T16:18:01+00:00",
+                "referral_source": null,
+                "quick_replies": [],
+                "variables": {
+                    "Edad": 43,
+                    "Sexo": "Hombre \ud83d\udeb9"
+                },
+                "tags": [],
+                "is_chat_opened": false,
+                "subscribe_url": null,
+                "is_banned": false,
+                "created_at": "2024-03-07T16:17:45+00:00",
+                "id": "65e9e8a91cda8a594806e561",
+                "channel_data": {
+                    "username": "EstebanEAP",
+                    "first_name": "Agust\u00edn",
+                    "last_name": null,
+                    "language_code": "es",
+                    "phone_number": null,
+                    "vcard": null,
+                    "photo": "https://s3.eu-central-1.amazonaws.com/telegram.sendpulse.prod/contacts/dc592de117796599567a290bb2f3d3e0/65746a856e9d24c086045e48/187829670/file_30.jpg",
+                    "name": "Agust\u00edn"
+                },
+                "telegram_id": 187829670
+            }
+        },
+        {
+            "inbox_last_message": {
+                "contact_id": "65746a8f8d16bbfb2f0e797c",
+                "bot_id": "65746a856e9d24c086045e48",
+                "campaign_id": null,
+                "sent_by": null,
+                "direction": 1,
+                "type": [],
+                "status": 1,
+                "channel": null,
+                "campaign_message_number": null,
+                "edited_at": null,
+                "edited_by": null,
+                "created_at": "2024-03-05T00:35:42+00:00",
+                "id": "65e668deb344873f1002159a",
+                "data": {
+                    "text": "Chau",
+                    "parse_mode": null,
+                    "disable_web_page_preview": null,
+                    "disable_notification": null,
+                    "reply_to_message": null,
+                    "reply_markup": null,
+                    "protect_content": null,
+                    "run_chain_id": null,
+                    "payload_contact_variables": null,
+                    "message_id": 1797
+                }
+            },
+            "inbox_unread": 0,
+            "contact": {
+                "bot_id": "65746a856e9d24c086045e48",
+                "status": 1,
+                "operator": null,
+                "type": 2,
+                "last_activity_at": "2024-03-05T00:35:42+00:00",
+                "referral_source": null,
+                "quick_replies": [],
+                "variables": {
+                    "NombreApellido": "Leo Lopez",
+                    "Edad": 18,
+                    "Email": "leonardolopez71@hotmail.com",
+                    "Telefono": 4444,
+                    "Ubicacion1": "https://maps.google.com/?q=-34.512955,-58.494296",
+                    "Relato": "Me pegaron",
+                    "Sexo": "Otro",
+                    "TipoViolencia": "Verbal",
+                    "Lugar": "Fuera de la Escuela"
+                },
+                "tags": [],
+                "is_chat_opened": true,
+                "subscribe_url": null,
+                "is_banned": false,
+                "created_at": "2023-12-09T13:24:31+00:00",
+                "id": "65746a8f8d16bbfb2f0e797c",
+                "channel_data": {
+                    "username": "leolopezDATA",
+                    "first_name": "Leo",
+                    "last_name": "Lopez",
+                    "language_code": "es",
+                    "phone_number": null,
+                    "vcard": null,
+                    "photo": "https://s3.eu-central-1.amazonaws.com/telegram.sendpulse.prod/contacts/dc592de117796599567a290bb2f3d3e0/65746a856e9d24c086045e48/5843586379/file_0.jpg",
+                    "name": "Leo Lopez"
+                },
+                "telegram_id": 5843586379
+            }
+        },
+        {
+            "inbox_last_message": {
+                "contact_id": "65b53f7e6fa50eefce088772",
+                "bot_id": "65746a856e9d24c086045e48",
+                "campaign_id": null,
+                "sent_by": null,
+                "direction": 1,
+                "type": [],
+                "status": 1,
+                "channel": null,
+                "campaign_message_number": null,
+                "edited_at": null,
+                "edited_by": null,
+                "created_at": "2024-02-02T16:47:03+00:00",
+                "id": "65bd1c877b2b10b2a6040616",
+                "data": {
+                    "text": "Me golpean",
+                    "parse_mode": null,
+                    "disable_web_page_preview": null,
+                    "disable_notification": null,
+                    "reply_to_message": null,
+                    "reply_markup": null,
+                    "protect_content": null,
+                    "run_chain_id": null,
+                    "payload_contact_variables": null,
+                    "message_id": 1538
+                }
+            },
+            "inbox_unread": 0,
+            "contact": {
+                "bot_id": "65746a856e9d24c086045e48",
+                "status": 1,
+                "operator": null,
+                "type": 1,
+                "last_activity_at": "2024-02-02T16:47:07+00:00",
+                "referral_source": null,
+                "quick_replies": [],
+                "variables": {
+                    "Edad": 18,
+                    "Sexo": "Masculino",
+                    "Email": "pepe@argento.com",
+                    "Telefono": 351352353,
+                    "TipoViolencia": "Me golpearon en la calle",
+                    "Lugar": "Fuera de la Escuela",
+                    "NombreApellido": "Argento Pepe",
+                    "Ubicacion1": "https://maps.google.com/?q=-31.403782,-64.200395",
+                    "Relato": "Me golpean"
+                },
+                "tags": [],
+                "is_chat_opened": true,
+                "subscribe_url": null,
+                "is_banned": false,
+                "created_at": "2024-01-27T17:38:06+00:00",
+                "id": "65b53f7e6fa50eefce088772",
+                "channel_data": {
+                    "username": "VicenteIaconetti",
+                    "first_name": "Vicente",
+                    "last_name": "Iaconetti",
+                    "language_code": "es",
+                    "phone_number": null,
+                    "vcard": null,
+                    "photo": null,
+                    "name": "Vicente Iaconetti"
+                },
+                "telegram_id": 949289727
+            }
+        },
+        {
+            "inbox_last_message": {
+                "contact_id": "658476de62e82fcac708e1e6",
+                "bot_id": "65746a856e9d24c086045e48",
+                "campaign_id": null,
+                "sent_by": null,
+                "direction": 1,
+                "type": [],
+                "status": 1,
+                "channel": null,
+                "campaign_message_number": null,
+                "edited_at": null,
+                "edited_by": null,
+                "created_at": "2023-12-21T17:34:35+00:00",
+                "id": "6584772b876993007a0ce664",
+                "data": {
+                    "text": "Otro lugar",
+                    "parse_mode": null,
+                    "disable_web_page_preview": null,
+                    "disable_notification": null,
+                    "reply_to_message": null,
+                    "reply_markup": null,
+                    "protect_content": null,
+                    "run_chain_id": null,
+                    "payload_contact_variables": null,
+                    "message_id": 1364
+                }
+            },
+            "inbox_unread": 0,
+            "contact": {
+                "bot_id": "65746a856e9d24c086045e48",
+                "status": 1,
+                "operator": null,
+                "type": 1,
+                "last_activity_at": "2023-12-21T17:34:35+00:00",
+                "referral_source": null,
+                "quick_replies": [],
+                "variables": {
+                    "Edad": 22,
+                    "Sexo": "Mujer \ud83d\udeba",
+                    "Email": "s.reyna@sendpulse.com",
+                    "Telefono": 1234567890,
+                    "Ubicacion1": "https://maps.google.com/?q=20.75326,-103.413301",
+                    "TipoViolencia": "Otra",
+                    "Lugar": "Otro lugar"
+                },
+                "tags": [],
+                "is_chat_opened": false,
+                "subscribe_url": null,
+                "is_banned": false,
+                "created_at": "2023-12-21T17:33:18+00:00",
+                "id": "658476de62e82fcac708e1e6",
+                "channel_data": {
+                    "username": "RebeReyna",
+                    "first_name": "Rebeca",
+                    "last_name": "Reyna",
+                    "language_code": "es",
+                    "phone_number": null,
+                    "vcard": null,
+                    "photo": "https://s3.eu-central-1.amazonaws.com/telegram.sendpulse.prod/contacts/dc592de117796599567a290bb2f3d3e0/65746a856e9d24c086045e48/5354356683/file_17.jpg",
+                    "name": "Rebeca Reyna"
+                },
+                "telegram_id": 5354356683
+            }
+        },
+        {
+            "inbox_last_message": {
+                "contact_id": "6582058fee17c188b208dc12",
+                "bot_id": "65746a856e9d24c086045e48",
+                "campaign_id": null,
+                "sent_by": null,
+                "direction": 1,
+                "type": [],
+                "status": 1,
+                "channel": null,
+                "campaign_message_number": null,
+                "edited_at": null,
+                "edited_by": null,
+                "created_at": "2023-12-19T21:07:07+00:00",
+                "id": "658205fb85b4a99083006f29",
+                "data": {
+                    "text": "no",
+                    "parse_mode": null,
+                    "disable_web_page_preview": null,
+                    "disable_notification": null,
+                    "reply_to_message": null,
+                    "reply_markup": null,
+                    "protect_content": null,
+                    "run_chain_id": null,
+                    "payload_contact_variables": null,
+                    "message_id": 1304
+                }
+            },
+            "inbox_unread": 0,
+            "contact": {
+                "bot_id": "65746a856e9d24c086045e48",
+                "status": 1,
+                "operator": null,
+                "type": 1,
+                "last_activity_at": "2023-12-19T21:07:07+00:00",
+                "referral_source": null,
+                "quick_replies": [],
+                "variables": {
+                    "Edad": 36,
+                    "Sexo": "Hombre \ud83d\udeb9",
+                    "Email": "alvaroaguilar16@gmail.com",
+                    "Telefono": 3584225928,
+                    "Ubicacion1": "https://maps.google.com/?q=-26.83473,-65.211169",
+                    "TipoViolencia": "verbal",
+                    "Lugar": "en la facultad",
+                    "Relato": "Leo me dijo petiso, chueco y tuerto."
+                },
+                "tags": [],
+                "is_chat_opened": false,
+                "subscribe_url": null,
+                "is_banned": false,
+                "created_at": "2023-12-19T21:05:19+00:00",
+                "id": "6582058fee17c188b208dc12",
+                "channel_data": {
+                    "username": null,
+                    "first_name": "Alvaro",
+                    "last_name": null,
+                    "language_code": "es",
+                    "phone_number": null,
+                    "vcard": null,
+                    "photo": null,
+                    "name": "Alvaro"
+                },
+                "telegram_id": 1727772193
+            }
+        },
+        {
+            "inbox_last_message": {
+                "contact_id": "6578fbbe914001f69e0d39c0",
+                "bot_id": "65746a856e9d24c086045e48",
+                "campaign_id": null,
+                "sent_by": null,
+                "direction": 1,
+                "type": [],
+                "status": 1,
+                "channel": null,
+                "campaign_message_number": null,
+                "edited_at": null,
+                "edited_by": null,
+                "created_at": "2023-12-13T14:25:23+00:00",
+                "id": "6579bed327e3cb6a8000397a",
+                "data": {
+                    "voice": {
+                        "mime_type": "audio/ogg",
+                        "file_id": "AwACAgEAAxkBAAICn2V5vtGegbOBrx5yMQ0FWknSzXtDAAIpBAACMErRRyJEJj7HS0K2MAQ",
+                        "file_size": 43401,
+                        "file_unique_id": "AgADKQQAAjBK0Uc",
+                        "duration": 2
+                    },
+                    "audio_transcription": {
+                        "text": "Me hicieron bullying en el patio.",
+                        "error_code": null,
+                        "error_message": null
+                    },
+                    "caption": null,
+                    "reply_to_message": null,
+                    "token": "6834597125:AAH5FTG_0KNpHLLMPURxyujzS6PfidG5_YI",
+                    "date": 1702477522,
+                    "message_id": 671
+                }
+            },
+            "inbox_unread": 0,
+            "contact": {
+                "bot_id": "65746a856e9d24c086045e48",
+                "status": 1,
+                "operator": null,
+                "type": 1,
+                "last_activity_at": "2023-12-13T14:25:25+00:00",
+                "referral_source": null,
+                "quick_replies": [],
+                "variables": {
+                    "Edad": 25,
+                    "Email": "1matiaspereyra@gmail.com",
+                    "Telefono": 2215942162,
+                    "Ubicacion1": "https://maps.google.com/?q=-34.891062,-58.008184",
+                    "Relato": "Me hicieron bullying en el patio."
+                },
+                "tags": [],
+                "is_chat_opened": false,
+                "subscribe_url": null,
+                "is_banned": false,
+                "created_at": "2023-12-13T00:33:02+00:00",
+                "id": "6578fbbe914001f69e0d39c0",
+                "channel_data": {
+                    "username": null,
+                    "first_name": "Matias",
+                    "last_name": "Pereyra",
+                    "language_code": "es",
+                    "phone_number": null,
+                    "vcard": null,
+                    "photo": "https://s3.eu-central-1.amazonaws.com/telegram.sendpulse.prod/contacts/dc592de117796599567a290bb2f3d3e0/65746a856e9d24c086045e48/1136223771/file_7.jpg",
+                    "name": "Matias Pereyra"
+                },
+                "telegram_id": 1136223771
+            }
+        },
+        {
+            "inbox_last_message": {
+                "contact_id": "6574c02e0315dbe9320d6cde",
+                "bot_id": "65746a856e9d24c086045e48",
+                "campaign_id": null,
+                "sent_by": null,
+                "direction": 1,
+                "type": [],
+                "status": 1,
+                "channel": null,
+                "campaign_message_number": null,
+                "edited_at": null,
+                "edited_by": null,
+                "created_at": "2023-12-09T19:44:17+00:00",
+                "id": "6574c391ce8322f89e015957",
+                "data": {
+                    "text": "\ud83d\uddff",
+                    "parse_mode": null,
+                    "disable_web_page_preview": null,
+                    "disable_notification": null,
+                    "reply_to_message": null,
+                    "reply_markup": null,
+                    "protect_content": null,
+                    "run_chain_id": null,
+                    "payload_contact_variables": null,
+                    "message_id": 155
+                }
+            },
+            "inbox_unread": 0,
+            "contact": {
+                "bot_id": "65746a856e9d24c086045e48",
+                "status": 1,
+                "operator": null,
+                "type": 1,
+                "last_activity_at": "2023-12-09T19:44:17+00:00",
+                "referral_source": null,
+                "quick_replies": [],
+                "variables": {
+                    "NombreApellido": "No",
+                    "Email": "l@gmail.com",
+                    "Telefono": 6,
+                    "Ubicacion1": "https://maps.google.com/?q=-34.555519,-58.462545",
+                    "Relato": "\ud83d\uddff"
+                },
+                "tags": [],
+                "is_chat_opened": true,
+                "subscribe_url": null,
+                "is_banned": false,
+                "created_at": "2023-12-09T19:29:50+00:00",
+                "id": "6574c02e0315dbe9320d6cde",
+                "channel_data": {
+                    "username": null,
+                    "first_name": "Jos\u00e9",
+                    "last_name": "L\u00f3pez",
+                    "language_code": "en",
+                    "phone_number": null,
+                    "vcard": null,
+                    "photo": null,
+                    "name": "Jos\u00e9 L\u00f3pez"
+                },
+                "telegram_id": 6443648001
+            }
+        }
+    ],
+    "meta": {
+        "total": 10,
+        "limit": 100
+    }
+}
